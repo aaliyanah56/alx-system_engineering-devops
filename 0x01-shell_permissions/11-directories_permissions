@@ -1,2 +1,2 @@
-#!/bin/bAsh
+#!/bin/bash
 sudo chmod -R +111 /*
