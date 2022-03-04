@@ -1,2 +1,1 @@
-#!/bin/bash
-author
+my first read me
